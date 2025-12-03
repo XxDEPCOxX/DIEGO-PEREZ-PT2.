@@ -37,5 +37,3 @@
 ![Text alternatiu](foto_github_7.png)
   
 - ### ***Ahora simplemente tendras que rellenar la informacion, como poner el correo electronico i el nombre de a quien/es quieres enviarselo i compartirselo:***
-
-![Text alternatiu](Foto_Github_8.png)
